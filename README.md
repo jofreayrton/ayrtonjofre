@@ -18,6 +18,8 @@
 - 📫 How to reach me **ayrtonjofre@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
+
 <p align="left">
 <a href="https://linkedin.com/in/ayrtonjofre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayrtonjofre" height="30" width="40" /></a>
 </p>
