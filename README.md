@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Nextbyn](https://nextbyn.com)
 
-- 🌱 I’m currently learning **GoLang Programming Language**
+- 🌱 I’m currently learning **JAVA**
 
 - 👯 I’m looking to collaborate on [DevOps](https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-devops/)
 
